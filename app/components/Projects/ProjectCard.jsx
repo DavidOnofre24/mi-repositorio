@@ -10,7 +10,7 @@ const projectsInfo = [
     proyecto_description:
       "Aplicacion movil que sirve para ordenar comida de un restaurante, permite ver el menu, agregar productos al carrito y realizar el pago.",
     proyecto_url_github: null,
-    images: ['/images/manzana/m1.webp', '/images/manzana/m2.webp', '/images/manzana/m3.webp', '/images/manzana/m4.webp', '/images/manzana/m5.webp', '/images/manzana/m6.webp'],
+    images: ['/images/manzana/m1.webp', '/images/manzana/m2.webp', '/images/manzana/m3.webp'],
     apple_url: "https://apps.apple.com/co/app/manzana-verde-comida-sana/id1542798197",
     google_url: "https://play.google.com/store/apps/details?id=la.manzana_verde_app",
     proyecto_tecnologias: [
@@ -34,7 +34,7 @@ const projectsInfo = [
       "Todo un ecosistema financiero al alcance. Monetiza tus plataformas digitales, recibe tu dinero seguro y fácil, paga y transfiere gratis entre billeteras Xisfo App. Paga en comercios aliados y recibe Cashback por tus transacciones.",
     apple_url: "https://apps.apple.com/co/app/xisfo/id6446699058",
     google_url: "https://play.google.com/store/apps/details?id=com.xisfo.fintech&hl=es&gl=US",
-    images: ['/images/xisfo/x1.webp', '/images/xisfo/x2.webp', '/images/xisfo/x3.webp', '/images/xisfo/x4.webp', '/images/xisfo/x5.webp'],
+    images: ['/images/xisfo/x1.webp', '/images/xisfo/x2.webp', '/images/xisfo/x3.webp'],
     proyecto_tecnologias: [
       "Flutter",
       "Firebase",
@@ -50,7 +50,7 @@ const projectsInfo = [
       "Aplicacion movil que sirve para que los repartidores puedan ver los pedidos que tienen asignados, ver la ruta para llegar al destino y poder marcar el pedido como entregado.",
     google_url: "https://play.google.com/store/apps/details?id=pe.manzanaverde.manzanos&hl=es&gl=US",
     proyecto_tecnologias: ["Flutter", "Firebase", "GRPC", "BLOC", "Clean code", "Socket.io", "Google maps"],
-    images: ['/images/manzano/z1.webp', '/images/manzano/z2.webp', '/images/manzano/z3.webp', '/images/manzano/z4.webp', '/images/manzano/z5.webp']
+    images: ['/images/manzano/z1.webp', '/images/manzano/z2.webp', '/images/manzano/z3.webp']
   },
 ];
 
